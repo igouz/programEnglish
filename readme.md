@@ -16,9 +16,9 @@ Ordinal 顺序的，依次的
 
 Represent vt. 代表
 
-High Concurrency 高并发
+High Concurrency 高并发  Concurrent [n]并发，并行 [adj]同时进行的
 
-predicate v.断言 n.谓词
+Predicate v.断言 n.谓词
 
 Aggregate 集合，聚集，聚合;
 
@@ -74,7 +74,7 @@ Annotation 注释
 
 Assign 分配
 
-out-of-box 开箱即用
+Out-Of-Box 开箱即用
 
 SKU = Stock Keeping Unit,产品入库后一种编码归类方法， 库存控制的最小单位
 
@@ -86,6 +86,8 @@ Authentication 认证 登录
 
 Authenrization 授权 授权用户能范围的内容;
 
-insight 洞察力（github上有个insights）
+Insight 洞察力（github上有个insights）
 
-realization 实现
+Realization 实现
+
+Asset 资产 assets 复数形式；
